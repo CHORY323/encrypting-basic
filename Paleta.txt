@@ -1,0 +1,33 @@
+/* CSS HEX */
+--punch: #da4530;
+--wood-bark: #270a06;
+--red-robin: #83331e;
+--eucalyptus: #2eb050;
+--parsley: #31571c;
+--deco: #d5dba4;
+--congo-brown: #553a3d;
+--xanadu: #747c74;
+
+
+/* SCSS HEX */
+$punch: #da4530;
+$wood-bark: #270a06;
+$red-robin: #83331e;
+$eucalyptus: #2eb050;
+$parsley: #31571c;
+$deco: #d5dba4;
+$congo-brown: #553a3d;
+$xanadu: #747c74;
+
+
+/* SCSS RGB */
+--punch: rgba(218,69,48,1);
+--wood-bark: rgba(39,10,6,1);
+--red-robin: rgba(131,51,30,1);
+--eucalyptus: rgba(46,176,80,1);
+--parsley: rgba(49,87,28,1);
+--deco: rgba(213,219,164,1);
+--congo-brown: rgba(85,58,61,1);
+--xanadu: rgba(116,124,116,1);
+
+
